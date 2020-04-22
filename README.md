@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Guys.
+
+Erix here, I like javascript.
